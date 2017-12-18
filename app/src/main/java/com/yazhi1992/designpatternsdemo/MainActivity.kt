@@ -18,5 +18,7 @@ class MainActivity : AppCompatActivity() {
         //男孩可以是有钱人
         val richPerson = RichPerson(boy)
         richPerson.dress()
+
+
     }
 }
