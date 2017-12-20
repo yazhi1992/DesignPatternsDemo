@@ -18,6 +18,8 @@
         </activity>
         <activity android:name=".Factory.FactoryActivity">
         </activity>
+        <activity android:name=".Facade.FacadeActivity">
+        </activity>
     </application>
 
 </manifest>
